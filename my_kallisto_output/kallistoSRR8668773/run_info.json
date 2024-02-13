@@ -1,0 +1,13 @@
+{
+	"n_targets": 205792,
+	"n_bootstraps": 0,
+	"n_processed": 69980123,
+	"n_pseudoaligned": 45774918,
+	"n_unique": 10310732,
+	"p_pseudoaligned": 65.4,
+	"p_unique": 14.7,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Wed Jan 31 14:20:39 2024",
+	"call": "/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/kallisto/build/src/kallisto quant -i /mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/Homo_sapiens.GRCh38.cdna.all.index -o /mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668773 -t 20 --single -l 250 -s 30 SRR8668773.fastq-006.gz"
+}
