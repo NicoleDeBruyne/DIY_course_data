@@ -12,7 +12,7 @@
 /*.tar.gz
 
 # any fastq files or fastq references
-*fastq.gz
+*fastq*.gz
 *fq.gz
 *fq
 *fastq

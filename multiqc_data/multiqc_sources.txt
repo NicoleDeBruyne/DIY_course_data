@@ -1,0 +1,32 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	SRR8668755	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668755.log
+Kallisto	all_sections	SRR8668756	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668756.log
+Kallisto	all_sections	SRR8668757	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668757.log
+Kallisto	all_sections	SRR8668758	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668758.log
+Kallisto	all_sections	SRR8668759	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668759.log
+Kallisto	all_sections	SRR8668769	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668769.log
+Kallisto	all_sections	SRR8668771	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668771.log
+Kallisto	all_sections	SRR8668772	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668772.log
+Kallisto	all_sections	SRR8668773	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668773.log
+Kallisto	all_sections	SRR8668774	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/kallistoSRR8668774.log
+fastp	all_sections	fastp | SRR8668755 | SRR8668755	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668755/fastp.json
+fastp	all_sections	fastp | SRR8668756 | SRR8668756	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668756/fastp.json
+fastp	all_sections	fastp | SRR8668757 | SRR8668757	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668757/fastp.json
+fastp	all_sections	fastp | SRR8668758 | SRR8668758	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668758/fastp.json
+fastp	all_sections	fastp | SRR8668759 | SRR8668759	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668759/fastp.json
+fastp	all_sections	fastp | SRR8668769 | SRR8668769	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668769/fastp.json
+fastp	all_sections	fastp | SRR8668771 | SRR8668771	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668771/fastp.json
+fastp	all_sections	fastp | SRR8668772 | SRR8668772	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668772/fastp.json
+fastp	all_sections	fastp | SRR8668773 | SRR8668773	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668773/fastp.json
+fastp	all_sections	fastp | SRR8668774 | SRR8668774	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastp/SRR8668774/fastp.json
+FastQC	all_sections	fastqc | SRR8668755	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668755.fastq-008_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755_1M_subsample	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668756	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668756.fastq-003_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668757	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668757.fastq-004_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668758	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668759	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668769	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668769.fastq-007_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668771	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668771.fastq-005_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668772	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668772.fastq-002_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668773	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668773.fastq-006_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668774	/mnt/c/Users/ndebruy/Documents/Classes/CAMB7140_DIYTranscriptomics/course_dataset/fastqc/SRR8668774.fastq-001_fastqc.zip
